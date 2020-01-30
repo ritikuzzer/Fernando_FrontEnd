@@ -1,2 +1,2 @@
-# Fernando_FrontEnd
-FrontEnd
+# npm install
+# ng serve
